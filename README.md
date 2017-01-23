@@ -1,3 +1,3 @@
 ## Task Master
 
-Mobile version of Go Task Manager
+A task manager for IOS<br/>
